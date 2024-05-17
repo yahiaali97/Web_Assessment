@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+    <listeners>
+        <listener class-name="listeners.FailScreenshots"/>
+    </listeners>
+    <test name="Regression Test" preserve-order="true">
+        <classes>
+            <class name="tests.T01_RegisterNewUserTest"/>
+            <class name="tests.T02_UserLoginTest"/>
+            <class name="tests.T03_CartTest"/>
+        </classes>
+    </test>
+</suite>

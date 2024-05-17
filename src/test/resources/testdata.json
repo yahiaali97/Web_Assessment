@@ -1,0 +1,25 @@
+{
+  "loginDetails": {
+    "username": "yehia26",
+    "password": "yehia26"
+  },
+  "firstSet": {
+    "firstProductPrice": "790",
+    "secondProductPrice": "790",
+    "totalPrice": "1580",
+    "customerName": "Yehia",
+    "customerCountry": "Egypt",
+    "customerCity": "Giza",
+    "customerCardNo": "12124245886",
+    "month": "May",
+    "year": "2024"
+  },
+  "secondSet": {
+    "customerName": "Yehia",
+    "customerCountry": "Egypt",
+    "customerCity": "Giza",
+    "customerCardNo": "98988989899898",
+    "month": "May",
+    "year": "2024"
+  }
+}
